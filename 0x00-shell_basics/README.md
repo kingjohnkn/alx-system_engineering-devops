@@ -11,3 +11,4 @@
 10 - Write a script that lists all files (even ones with ... in long format
 11 - Write a script that prints the type of the file named iamafile
 12 - Create a symbolic link to /bin/ls, named __ls__.
+13 - copy html
